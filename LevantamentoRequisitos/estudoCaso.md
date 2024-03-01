@@ -22,7 +22,9 @@ JDA Transportation Manager:
 O JDA Transportation Manager é uma solução focada em otimização de transporte. Oferece recursos abrangentes de cadastro e rastreamento, além de integração com sistemas de gestão de combustível e pedágio. Seu módulo de análise proporciona dashboards intuitivos para avaliação do desempenho, permitindo ajustes dinâmicos nas rotas, veículos e motoristas.
 Ao avaliar esses softwares, a "LogiTech Industries" poderá escolher uma solução que atenda às suas necessidades específicas, proporcionando eficiência e visibilidade em toda a cadeia de logística.
 
-A atividade é : 
+A atividade é :
+
+
 A)
 ---
 Dos problemas apresentados listem de forma resumida os requisitos que o software deve atender.
@@ -32,6 +34,6 @@ P.Exemplo :
 
 B)
 ---
-Após ter a visão detalhada de cada Requisito listado na atividade anterior, dos três software sugeridos, pesquisem a respeito das funcionalidades que cada um possui, indique qual seria a solução ideal para atender aos requisitos listados.
+Após ter a visão detalhada de cada Requisito listado na atividade anterior, dos três software sugeridos, pesquisem a respeito de cada, indique qual seria a solução ideal para atender aos requisitos listados, você tem a liberdade de encontrar outro software no mercado que não esta listado acima.
 Monte uma apresentação rápida e em 5 minutos explique para a sala e professores o motivo da escolha. 
 Podem comparar pontos positivos e negativos, criar uma tabela com requisitos e mostrar os que cada software atende e que não atende, Podem analisar a usabilidade do sistema, interação, possibilidades de ampliação de ferramentas.
