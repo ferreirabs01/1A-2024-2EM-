@@ -1,15 +1,15 @@
 1) Converter os seguintes valores decimais em valores bináriosequivalentes (conversão de base 10 para base 2):
 ##
-a) 29
-b) 35
-c) 417
-d) 251
-e) 84
-f) 215
-g) 113
-h) 769
-i) 76
-j) 500
+a) 29\
+b) 35\
+c) 417\
+d) 251\
+e) 84\
+f) 215\
+g) 113\
+h) 769\
+i) 76\
+j) 500\
 
 
 2) Converter os seguintes valores binários em valores decimaisequivalentes (conversão de base 2 para base 10):
